@@ -1,1 +1,1 @@
-# SQL-BasicsDemonstration
+# SQL-CovidProject
